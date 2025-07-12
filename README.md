@@ -58,41 +58,6 @@ Patient feedback image carousel.
 
 Basic form interaction (connect button).
 
-Font Awesome: Used for icons (e.g., hamburger menu, close button).
-
-<script src="https://kit.fontawesome.com/f30fac2c61.js" crossorigin="anonymous"></script>
-
-Google Fonts: Utilizes various fonts for improved aesthetics.
-
-Roboto, Abril Fatface, Catamaran, Courgette, Dancing Script, Edu TAS Beginner, Lato, Mukta, Mulish, Open Sans, PT Sans, Poppins, Raleway, Roboto Condensed, Roboto Slab.
-
-Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
-Prerequisites
-You only need a modern web browser to view this project. No special server or backend environment is required as it's a purely static front-end website.
-
-Installation
-Clone the repository:
-
-Bash
-
-git clone https://github.com/your-username/e-health-care-clone.git
-(Replace your-username/e-health-care-clone with the actual repository path if it's hosted on GitHub).
-
-Navigate to the project directory:
-
-Bash
-
-cd e-health-care-clone
-Usage
-To view the website, simply open the hospital.html file in your preferred web browser.
-
-Bash
-
-open hospital.html
-(On Windows, you might just double-click hospital.html).
-
 File Structure
 The project directory should contain the following files:
 
